@@ -1,4 +1,5 @@
-### README  
+### DATA PROCESSING FOR LANGUAGE TEXT CLASSIFICATION FOR EAST AFRICAN TOURISM  
+This project focuses on data processing for language text classification in East African tourism. Key steps include feature extraction to identify meaningful patterns, handling missing data and outliers to ensure data integrity, transforming text for model compatibility, and efficient storage. The goal is to enhance language-based insights for tourism applications.
 
 #### **Table of Contents**
 - [Dataset Overview](#dataset-overview)  
